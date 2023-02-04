@@ -21,7 +21,7 @@ export default function Home() {
     });
     setTodoData(mapped);
   }
-//dave is awesome
+
   return (
     <div className="center">
       <h1>Todo List</h1>
